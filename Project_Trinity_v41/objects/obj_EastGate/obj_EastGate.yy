@@ -1,0 +1,41 @@
+{
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_EastGate",
+  "spriteId": {
+    "name": "spr_block",
+    "path": "sprites/spr_block/spr_block.yy",
+  },
+  "solid": false,
+  "visible": false,
+  "managed": true,
+  "spriteMaskId": null,
+  "persistent": false,
+  "parentObjectId": {
+    "name": "obj_HubGate",
+    "path": "objects/obj_HubGate/obj_HubGate.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsGroup": 1,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_BasePlayer","path":"objects/obj_BasePlayer/obj_BasePlayer.yy",},},
+  ],
+  "properties": [],
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"go_area","path":"objects/obj_HubGate/obj_HubGate.yy",},"objectId":{"name":"obj_HubGate","path":"objects/obj_HubGate/obj_HubGate.yy",},"value":"east_room",},
+  ],
+  "parent": {
+    "name": "gates",
+    "path": "folders/Objects/World_Objects/gates.yy",
+  },
+}

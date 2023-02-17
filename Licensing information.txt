@@ -1,0 +1,39 @@
+﻿Licensing information
+
+
+* Background music
+
+
+8-Bit Fantasy & Adventure backgroun music - https://xdeviruchi.itch.io/8-bit-fantasy-adventure-music-pack
+
+
+* Sound effects
+
+
+Damage sound - Freesound - "Damage" by qubodup
+
+
+Retro punch sound  - Freesound - "retro punch" by damnsatinist
+
+
+Holy Protection Skill Buff sound - https://freesound.org/people/EminYILDIRIM/sounds/621206/
+
+
+Shield sound - https://freesound.org/people/MortisBlack/sounds/385051/
+
+
+* Tilesets and sprites
+
+
+Kenny Roguelike/RPG pack  - https://www.kenney.nl/assets/roguelike-rpg-pack
+
+
+Pixel osrs asset pack - https://i8bits.itch.io/pixel-osrs-asset-pack-64x64
+Toen's Medieval Strategy v.1.0 - https://toen.itch.io/toens-medieval-strategy?download
+        Simple Knight - Free: Link
+
+Simple Knight - Free: 	https://marketplace.yoyogames.com/assets/10255/simple-knight-free?s=eb82b0ee05180ce6d7d2c53a669ae5b3
+
+Kenny Background elements redux  -   https://www.kenney.nl/assets/background-elements-redux
+
+Pick up items (for stamina and shield bar) - https://marketplace.yoyogames.com/assets/1940/pick-up-items?s=eb82b0ee05180ce6d7d2c53a669ae5b3
