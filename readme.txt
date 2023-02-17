@@ -2,7 +2,7 @@
 
 
 Team TSWS
-Siwon Jo - Designer, Tashawn Deshazier - Programmer &  Producer, Soumen Sahoo - Producer, Will Bivens - Artist
+Siwon Jo - Designer & Producer, Tashawn Deshazier - Programmer & Producer, Will Bivens - Artist
 
 
 Game title - Trinity
