@@ -1,6 +1,6 @@
 ﻿Game Manual
 
-Siwon Jo - Designer & Producer, Tashawn Deshazier - Programmer & Producer, Will Bivens - Artist
+Siwon Jo - Designer & Producer, Tashawn Deshazier - Programmer, Will Bivens - Artist
 
 Game title - Trinity
 
