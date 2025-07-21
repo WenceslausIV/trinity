@@ -38,7 +38,7 @@ Player can move with the WASD keys in the open world. Defeat the enemies and tak
 
 ### Utility Cards
 
-- “Heal” - Cost: 1~4, Function: heal a different amount(10~40) depending on the card cost
+- “Heal” - Cost: 1-4, Function: heal a different amount (10-40) depending on the card cost
 - “Coin Flip” - Cost: 2, Function: 50% chance to double the attack and 50% chance not to attack at all
 - “Lottery ticket” - Cost: 2, Function: 20% to 2.5x the damage of the current attack
 - “Poison” - Cost: 2, Function: paralyze the enemy for 5 seconds
