@@ -3,7 +3,7 @@
 ![ScreenRecording-Aug122025-VEED1online-video-cutter com-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/af478600-6520-407b-bf85-4669332a411b)
 
 
-## Game Manual
+## Credits
 
 Me - Designer & Producer  
 Tashawn D - Programmer  
