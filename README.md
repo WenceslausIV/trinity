@@ -22,7 +22,7 @@ You need to promptly think which cards to pick to make the best attack possible.
 - **“Head”** - Cost: 4, Function: target opponent’s head, Draw chance: 10% 
 - **“Left Arm”** - Cost: 2, Function: target opponent’s left arm, Draw chance: 15%
 - **“Right Arm”** - Cost: 2, Function: target opponent’s right arm, Draw chance: 15%
-- **“Torso”**  - Cost: 3, Function target opponent’s stomach, Draw chance: 30%
+- **“Torso”** - Cost: 3, Function target opponent’s stomach, Draw chance: 30%
 - **“Left Leg”** - Cost: 2, Function: target opponent’s left leg, Draw chance: 15%
 - **“Right Leg”** - Cost: 2, Function: target opponent’s right leg, Draw chance: 15%
 
@@ -35,8 +35,8 @@ You need to promptly think which cards to pick to make the best attack possible.
 
 ### Utility Cards
 
-- “Heal” - Cost: 1-4, Function: heal a different amount (10-40) depending on the card cost
-- “Coin Flip” - Cost: 2, Function: 50% chance to double the attack and 50% chance not to attack at all
-- “Lottery ticket” - Cost: 2, Function: 20% to 2.5x the damage of the current attack
-- “Poison” - Cost: 2, Function: paralyze the enemy for 5 seconds
-- “Trumpet” - Cost: 4, Function: gain energy 1.5x faster for 30 secs
+- **“Heal”** - Cost: 1-4, Function: heal a different amount (10-40) depending on the card cost
+- **“Coin Flip”** - Cost: 2, Function: 50% chance to double the attack and 50% chance not to attack at all
+- **“Lottery ticket”** - Cost: 2, Function: 20% to 2.5x the damage of the current attack
+- **“Poison”** - Cost: 2, Function: paralyze the enemy for 5 seconds
+- **“Trumpet”** - Cost: 4, Function: gain energy 1.5x faster for 30 secs
