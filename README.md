@@ -14,7 +14,6 @@ Will B - Artist
 
 You need to promptly think which cards to pick to make the best attack possible.
 
-
 ## Card list
 
 ### Target(aim) Cards
@@ -31,7 +30,7 @@ You need to promptly think which cards to pick to make the best attack possible.
 - **“Sword”** - Cost: 1, Function: attack a targeted body part. Damage: 30
 - **“Mace”** - Cost: 2, Function: attack a targeted body part. Damage: 60
 - **“Sharp Sword”** - Cost: 2, Function: attack a targeted body part but only causes bleeding. Damage: 3 per sec for 30 secs
-- **“Divine rapier”** - Cost:4, Function attack a targeted body part of the opponent and yourself. Damage: 210 to enemy and 120 to player itself.
+- **“Divine rapier”** - Cost: 4, Function attack a targeted body part of the opponent and yourself. Damage: 210 to enemy and 120 to player itself.
 
 ### Utility Cards
 
