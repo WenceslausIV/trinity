@@ -9,13 +9,10 @@ Me - Designer & Producer
 Tashawn D - Programmer  
 Will B - Artist
 
-## Game genre
-
-Trinity is a real time strategy card game, the reason why this is not a traditional turn based card game is that the player needs to promptly think which cards to pick and make the best attack possible.
-
 ## How to play the game
 
-To defeat the enemies, using proper combinations of cards and prompt decision making are required. In battle, pick 3 cards to attack and weaken one of the enemy's body parts to win the battle, but the same can be inflicted on you. Try to use as many shielding and healing cards when you’re in a pinch.
+Trinity is a real time strategy card game, promptly think which cards to pick to make the best attack possible.
+
 
 ## Card list
 
