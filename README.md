@@ -12,7 +12,7 @@ Will B — Artist
 
 ## How to play the game
 
-You need to promptly think which cards to pick to make the best attack possible with your available energy.
+Promptly think which cards to pick to make the best attack possible with your available energy.
 
 ## Card list
 
