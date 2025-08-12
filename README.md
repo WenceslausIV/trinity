@@ -16,7 +16,7 @@ You need to promptly think which cards to pick to make the best attack possible.
 
 ## Card list
 
-### Target(aim) Cards
+### Target Cards
 
 - **“Head”** — Cost: 4, Function: target opponent’s head, Draw chance: 10% 
 - **“Left Arm”** — Cost: 2, Function: target opponent’s left arm, Draw chance: 15%
@@ -25,7 +25,7 @@ You need to promptly think which cards to pick to make the best attack possible.
 - **“Left Leg”** — Cost: 2, Function: target opponent’s left leg, Draw chance: 15%
 - **“Right Leg”** — Cost: 2, Function: target opponent’s right leg, Draw chance: 15%
 
-### Weapon(attack) Cards
+### Weapon Cards
 
 - **“Sword”** — Cost: 1, Function: attack a targeted body part. Damage: 30
 - **“Mace”** — Cost: 2, Function: attack a targeted body part. Damage: 60
