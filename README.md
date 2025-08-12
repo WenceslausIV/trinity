@@ -11,7 +11,7 @@ Will B - Artist
 
 ## How to play the game
 
-Trinity is a real time strategy card game, promptly think which cards to pick to make the best attack possible.
+Trinity is a real time strategy card game, you need to promptly think which cards to pick to make the best attack possible.
 
 
 ## Card list
