@@ -1,4 +1,5 @@
 # Trinity
+Trinity is a real time strategy card game.
 
 ![ScreenRecording-Aug122025-VEED1online-video-cutter com-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/af478600-6520-407b-bf85-4669332a411b)
 
@@ -11,7 +12,7 @@ Will B - Artist
 
 ## How to play the game
 
-Trinity is a real time strategy card game, you need to promptly think which cards to pick to make the best attack possible.
+You need to promptly think which cards to pick to make the best attack possible.
 
 
 ## Card list
