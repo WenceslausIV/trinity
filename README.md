@@ -1,5 +1,8 @@
 # Trinity
 
+![ScreenRecording-Aug122025-VEED1online-video-cutter com-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/2aeb4bfe-6448-4b21-b6aa-270e349866bb)
+
+
 ## Game Manual
 
 Me - Designer & Producer  
