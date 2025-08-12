@@ -11,11 +11,7 @@ Will B - Artist
 
 ## Game genre
 
-Trinity is a real time strategy card game, the reason why this is not a traditional turn based card game is that the player needs to promptly think which cards to pick and destroy and make the best attack possible.
-
-## Features
-
-Trinity has a unique feature which is a limb system. Player and Enemy have 6 body parts and the player has to pick a target card to pick a body part to attack.
+Trinity is a real time strategy card game, the reason why this is not a traditional turn based card game is that the player needs to promptly think which cards to pick and make the best attack possible.
 
 ## How to play the game
 
